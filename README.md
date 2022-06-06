@@ -7,8 +7,8 @@
 
 ### How are the tools used - 
   <ul>
-    <li>We will use PySpark DataFrames for data cleaning, preprocessing and filtering because we have a large text dataset (corpus).
+    <li>We will use <strong>PySpark</strong> DataFrames for data cleaning, preprocessing and filtering because we have a large text dataset (corpus).
         The motivation for using PySpark comes from the fact that it utilizes all the available CPU cores concurrently to perform operations on DataFrames
         and hence is much much faster than any other technique.
-        Even if we use futures.concurent functionality for parallel processing, PySpark will still be much faster than it.
+        <strong>Note:</strong> I tried using the futures.concurent functionality for parallel processing but PySpark outperformed it heavily.
   </ul>
