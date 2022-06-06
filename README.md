@@ -1,9 +1,8 @@
 # Sentiment Analysis of Amazon Reviews using NLP
+<h3>The motivation of this project is to improve NLP, Machine Learning and Big Data skills.</h3>
 
-## Data - 300,000 Amazon Reviews
-## Tools - PySpark, sklearn, TensorFlow
-
-## The motivation of this project is to improve NLP, Machine Learning and Big Data skills.
+<h4> Data - 300,000 Amazon Reviews</h4>
+<h4> Tools - PySpark, sklearn, TensorFlow</h4>
 
 ### How are the tools used - 
   <ul>
